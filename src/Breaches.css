@@ -1,0 +1,22 @@
+.breach-row {
+	color: hsl(0, 0%, 66%);
+	vertical-align: text-top;
+}
+
+.breach-title {
+	color: #4a4a4a;
+	font-size: 1.25rem;
+	font-weight: bold;
+}
+
+.breach-link {
+	font-size: 0.75rem;
+}
+
+.breach-date {
+	font-size: 0.75rem;
+}
+
+.breach-count {
+	font-size: 0.75rem;
+}

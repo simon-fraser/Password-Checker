@@ -1,0 +1,7 @@
+@import url(../node_modules/bulma/css/bulma.css);
+
+body {
+	background-image: url(/security.jpg);
+	background-size: cover;
+	background-position: center;
+}
