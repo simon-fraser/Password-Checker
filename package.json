@@ -1,7 +1,9 @@
 {
   "name": "pwned",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "homepage": "https://simonf.co.uk/passwords/",
+  "author": "Simon Fraser",
   "dependencies": {
     "bulma": "^0.7.1",
     "crypto-js": "^3.1.9-1",
@@ -11,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "rm -rf /build && react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }

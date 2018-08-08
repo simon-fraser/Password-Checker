@@ -4,4 +4,11 @@ This little application is put together to check any given password against the 
 
 It does not transmit the password from your computer as it uses a [k-anonymity](https://en.wikipedia.org/wiki/K-anonymity) model and only sends the first 5 bytes of encrypted data for comparison.
 
-Built using React.
+---
+
+## Find it here
+[simonf.co.uk/passwords](https://simonf.co.uk/passwords)
+
+---
+
+Built using React JS and Bulma.

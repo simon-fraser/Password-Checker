@@ -109,7 +109,7 @@ class App extends React.Component {
 
 					<div className="columns is-centered is-multiline">
 						<div className="column is-three-quarters">
-							<h1 className="title has-text-centered">Check if your passwords have been leaked?</h1>
+							<h1 className="title main-title has-text-centered">Check if your passwords have been leaked?</h1>
 						</div>
 
 						<div className="column is-half">
@@ -144,7 +144,7 @@ class App extends React.Component {
 				<div className="container">
 					<div className="columns">
 						<div className="column"><a href="https://simonf.co.uk/" className="button is-text">By SimonF</a></div>
-						<div className="column has-text-right"><button className="button is-text" onClick={this.handleExplain.bind(this)}>Explain?</button></div>
+						<div className="column has-text-right has-text-left-mobile"><button className="button is-text" onClick={this.handleExplain.bind(this)}>Explain?</button></div>
 					</div>
 				</div>
 			</footer>
